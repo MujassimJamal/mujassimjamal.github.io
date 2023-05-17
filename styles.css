@@ -6,15 +6,6 @@ body {
     font-family: sans-serif;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline-block;
-}
-
 nav ul li a {
     text-decoration: none;
     color: #000;
@@ -40,12 +31,5 @@ nav ul li a:hover:after {
 
     to {
         width: calc(100% - 1em);
-    }
-}
-
-@media screen and (max-width: 768px) {
-    a {
-        text-decoration: none !important;
-        display: none !important;
     }
 }
