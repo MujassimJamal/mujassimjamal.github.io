@@ -1,5 +1,5 @@
 var footerHTML = `
-<div id="footerContainer">
+<div id="footerContainer" class="fixed-bottom">
 <div class="row">
    <div class="col text-start ps-5">
       <p>&copy; 2023 Mujassim Bhaijamal.</p>
