@@ -1,0 +1,9 @@
+{
+  "configurations": [
+    {
+      "type": "python",
+      "name": "Python Server configuration",
+      "arguments": ["-m", "http.server"],
+    }
+  ]
+}

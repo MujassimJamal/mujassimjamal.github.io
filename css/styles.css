@@ -51,5 +51,9 @@ nav ul li a:hover:after {
 }
 
 .bg-slight-greyish {
-    background-color: #373737; /* Adjust the desired shade of grey */
- }
+    background-color: #63636324; /* Adjust the desired shade of grey */
+}
+
+.custom-section-width {
+    margin-left: -10%; /* Adjust the percentage as needed */
+}
