@@ -45,3 +45,11 @@ nav ul li a:hover:after {
     }
 }
 
+.custom-card-width {
+    margin-right: -35px;
+    margin-left: -25px;
+}
+
+.bg-slight-greyish {
+    background-color: #373737; /* Adjust the desired shade of grey */
+ }
