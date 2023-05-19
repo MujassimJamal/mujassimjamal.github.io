@@ -59,6 +59,20 @@ nav ul li a:hover:after {
 }
 
 .custom-py {
-    padding-top: 5rem !important;
-    padding-bottom: 5rem !important;
+    padding-top: 4rem !important;
+    padding-bottom: 4rem !important;
+}
+
+.form-width {
+    width: 45%;
+}
+
+@media (max-width: 767px) {
+    .form-width {
+        width: 90%;
+    }
+}
+
+.form-field-mb {
+    margin-bottom: -2rem !important;
 }
