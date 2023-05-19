@@ -55,5 +55,10 @@ nav ul li a:hover:after {
 }
 
 .custom-section-width {
-    margin-left: -10%; /* Adjust the percentage as needed */
+    justify-content: center;
+}
+
+.custom-py {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
 }
