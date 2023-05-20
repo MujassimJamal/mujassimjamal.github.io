@@ -76,3 +76,7 @@ nav ul li a:hover:after {
 .form-field-mb {
     margin-bottom: -2rem !important;
 }
+
+.project-thumbnail-size {
+    max-width: 100%;
+}
