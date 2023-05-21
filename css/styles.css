@@ -67,22 +67,6 @@ nav ul li a:hover:after {
     width: 45%;
 }
 
-@media (max-width: 767px) {
-    .form-width {
-        width: 90%;
-    }
-
-    iframe {
-        width: 0px;
-        height: 600px;
-    }
-
-    .custom-frame {
-        padding-right: 26.5rem !important;
-        padding-left: -0.5rem !important;
-    }
-}
-
 .form-field-mb {
     margin-bottom: -2rem !important;
 }
@@ -92,10 +76,21 @@ nav ul li a:hover:after {
 }
 
 .main-contact {
-    padding-right: 9rem !important;
+    padding-right: 2.3rem !important
 }
 
-iframe {
+.custom-frame {
     width: 640px;
     height: 600px;
+}
+
+@media (max-width: 567px) {
+    .form-width {
+        width: 251px;
+    }
+
+    .custom-frame {
+        width: 358px;
+        height: 478px;
+    }
 }
