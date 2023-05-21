@@ -71,6 +71,16 @@ nav ul li a:hover:after {
     .form-width {
         width: 90%;
     }
+
+    iframe {
+        width: 0px;
+        height: 600px;
+    }
+
+    .custom-frame {
+        padding-right: 26.5rem !important;
+        padding-left: -0.5rem !important;
+    }
 }
 
 .form-field-mb {
@@ -79,4 +89,13 @@ nav ul li a:hover:after {
 
 .project-thumbnail-size {
     max-width: 100%;
+}
+
+.main-contact {
+    padding-right: 9rem !important;
+}
+
+iframe {
+    width: 640px;
+    height: 600px;
 }
