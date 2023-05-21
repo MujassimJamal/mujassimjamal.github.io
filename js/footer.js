@@ -1,5 +1,5 @@
 var footerHTML = `
-<div id="footerContainer" class="fixed-bottom">
+<div id="footerContainer">
 <div class="row">
    <div class="col text-start ps-5">
       <p>&copy; 2023 Mujassim Bhaijamal.</p>
@@ -13,7 +13,7 @@ var footerHTML = `
             <a class="text-reset text-decoration-none" aria-current="page" href="contact.html">Contact</a>
          </p>
     </div>
-   <div class="col text-end pe-5">
+   <div class="col text-end pe-5" style="padding-right: 2rem!important;">
       <span>
          <a id="media" href="https://www.github.com/mujassimjamal" rel="noopener noreferrer" aria-label="Linkedin"
             class="text-xl text-neutral-900 dark:text-slate-200 hover:text-neutral-700 dark:hover:text-slate-100"
