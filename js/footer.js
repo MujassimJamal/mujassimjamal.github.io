@@ -2,7 +2,7 @@ var footerHTML = `
 <div id="footerContainer">
 <div class="row">
    <div class="col text-start ps-5">
-      <p>&copy; 2023 Mujassim Bhaijamal.</p>
+      <p>&copy; 2023 Mujassim Bhaijamal</p>
    </div>
    <div class="col text-middle text-center">
          <p class="text-md-center hide-mobile">

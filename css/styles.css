@@ -85,6 +85,10 @@ nav ul li a:hover:after {
     height: 600px;
 }
 
+.project-read-more-py {
+    padding-top: 5.3rem !important;
+}
+
 @media (max-width: 567px) {
     .form-width {
         width: 251px;
